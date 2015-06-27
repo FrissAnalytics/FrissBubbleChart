@@ -1,0 +1,17 @@
+.g-node {
+  fill: #d1e0f3;
+}
+
+a.g-label{
+  color: inherit;
+  cursor: pointer;
+  display: block;
+  text-align: center;
+  text-decoration: none;
+  line-height: 1em;
+  position: absolute;
+}
+
+.g-label .g-value {
+  font: 11px sans-serif;
+}
